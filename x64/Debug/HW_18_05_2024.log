@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(104,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(105,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(114,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(115,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(123,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(124,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(132,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\projects_c++\HW_OOP\HW_18_05_2024\Source.cpp(133,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HW_18_05_2024.vcxproj -> C:\Users\User\Desktop\projects_c++\HW_OOP\x64\Debug\HW_18_05_2024.exe
